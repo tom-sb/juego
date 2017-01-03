@@ -1,4 +1,4 @@
-# juego
+# juego CrazyCombi
 
 
 El siguiente es un juego llamado “crazycombi” una versión en desarrollo similar al conocido juego crazytaxi. CrazyCombi esta realizado en c++ y usa además la librería SDL 1.2 para la gestión de gráficos. Este juego se realiza para fines académicos.
